@@ -2,7 +2,7 @@
 
 > ### In order for us to evaluate your technical performance, develop the test described in this document from best possible way, applying Object Orientation, Clean Code, SOLID, Design Patterns, Mult-layered and Multi-Tiered techniques and making the most of your potential.
 
-- 1. Create database with below file structure (preferably in PostgreSQL).
+- 1. [Create database with below file structure (preferably in PostgreSQL).](./script.md)
 - 2. Define three-tier system architecture.
   - Comunicação Rest com JSON entre aplicação Cliente / Servidor
   - Aplicar Clean Code
