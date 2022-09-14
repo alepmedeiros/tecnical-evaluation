@@ -4,12 +4,12 @@
 
 - 1. [Create database with below file structure (preferably in PostgreSQL).](./script.md)
 - 2. Define three-tier system architecture.
-  - Comunicação Rest com JSON entre aplicação Cliente / Servidor
-  - Aplicar Clean Code
-  - Orientação a objetos
-  - Padrões de projeto
-  - Garantir integridade entre registros (não ter pessoa sem endereço)
-  - Camada de persistência, utilizar Firedac
+  - Rest communication with JSON between Client/Server application
+  - Apply Clean Code
+  - Object orientation
+  - Design Standards
+  - Ensuring integrity between records (no person without an address)
+  - Persistence layer, use Firedac
 - 3. Develop a registry of people
   - The objective is to make a simplified registration with the person's data and the zip code (in item 4 to
 address_integration table will be updated based on the entered zip code).
